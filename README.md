@@ -19,15 +19,17 @@ interface GigabitEthernet0/0
 ```
 
 ## VRRP - Virtual Router Redundancy Protocol   
+** VRRP is not available in Packet Tracer - this config is from a CML2 lab. **
 
 ### R1
 ```
-interface GigabitEthernet0/0
-  
+interface GigabitEthernet1
+  vrrp 1 ip 10.16.1.252
+  vrrp 1 priority 150
 ```
 
 ### R2
 ```
-interface GigabitEthernet0/0
-  
+interface GigabitEthernet1
+  vrrp 1 ip 10.16.1.252
 ```
