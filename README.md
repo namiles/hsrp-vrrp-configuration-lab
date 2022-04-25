@@ -1,5 +1,5 @@
 # Router Redundancy with FHRPs (HSRP/VRRP)
-This repository contains router configuration for my HSRP and VRRP configuration labs, available on my blog [here.](#) More free, CCNA labs are availabl at https://nicksnetworklab.com
+This repository contains router configuration for my HSRP and VRRP configuration labs, available on my blog [here.](https://nicksnetworklab.com/ccna-ccnp-lab-router-redundancy-with-fhrps/) More free, CCNA labs are availabl at https://nicksnetworklab.com
 
 ## HSRP - Hot Standby Router Protocol   
 
